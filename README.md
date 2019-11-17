@@ -19,7 +19,10 @@ for (n = 0; n < 5; n++)  printf("%d ", v[n]);
 
 return 0;}
 
+ 결과
  
+ ![결과](https://user-images.githubusercontent.com/50895124/69003868-9f1f1400-094c-11ea-9a0d-089435a0eb84.PNG)
+
 
 const : 변수를 상수로 바꾸지마라  
 
@@ -101,3 +104,7 @@ for (i = 0; i < LEN; i++) printf(" %d", v[i]); printf("\n");
 qs(v, 0, LEN - 1);
   
 for (i = 0; i < LEN; i++) printf(" %d", v[i]); printf("\n");
+
+결과
+
+![구현결과](https://user-images.githubusercontent.com/50895124/69003864-8e6e9e00-094c-11ea-8526-3eb0cd75717b.PNG)
